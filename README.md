@@ -81,19 +81,19 @@ ps.前半部分才是重點好吧~_~
 
 > *鳴謝:*
 
-由 MultimindTechnology （多樣思想技術）組開發
+由 MT 組開發
 
 次元無戒舊“龍女僕”形象原畫師:kk
 
-新圖標形象畫師:lrz
+新圖標形象畫師:青色琉璃
 
 logo形象參考:~~[神必人]~~
 
 視覺效果美工設計:太君
 
-整活人:0ingChun
+整活人:0
 
-協助後期: omgpizzatnt
+協助後期: 哦天哪是炸藥比薩
 
 內鬼:~~[删庫舉報不跑路]~~
 
@@ -104,3 +104,5 @@ logo形象參考:~~[神必人]~~
 ![APPmascot](https://github.com/0ingchun/dimensionality/blob/main/sketch1633776342197.png)
 
 以上吉祥物圖標為**Multimind Technology**所有，保留所有權利。logo圖標為編輯其他畫師作品的結果，如有侵權，請聯系刪除。
+
+it is a buckup readme dimension 21.12.11
