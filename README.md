@@ -1,7 +1,6 @@
-# dimension
-Unlimited Dimensions App 次元無戒
+次元無戒 out of Dimensionality App
 # 次元無戒
-DimensionNoQuit
+ Boundless Dimension
 ----
 
 ![APPlogo](https://github.com/0ingchun/dimensionality/blob/main/qxlarge-dsc-60118CD0C378DBB3EF95433B97595A56.png)
@@ -11,11 +10,11 @@ DimensionNoQuit
 
 > **下載 Download:** 最**新**版本
 
-*下載*通道*1*：[**Github_Download下載**](https://github.com/0ingchun/dimensionality/releases/download/DimensionNoQuit/DimensionNoQuit-latest_release.apk)
+*下載*通道*1*：[**Github_Download下載**](https://github.com/0ingchun/dimensionality/releases/download/BoundlessDimension/BoundlessDimension-stable_release.apk)
 
 *下載*通道*2*：[**藍奏yun下載**](https://wws.lanzoui.com/b026i39mb)密碼:cywj
 
-> [*發佈頁*](https://github.com/0ingchun/dimensionality/releases)
+> [*App發佈頁*](https://github.com/0ingchun/dimensionality/releases)
 
 查看詳細更新日誌內容和版本
 
@@ -97,12 +96,10 @@ logo形象參考:~~[神必人]~~
 
 內鬼:~~[删庫舉報不跑路]~~
 
-軟件基於旨在“更優雅的瀏覽體驗”的FusionAPP設計
+軟件基於旨在“更優雅的瀏覽體驗”的 FusionAPP 設計
 
 > *made by* **Multimind Technology**
 
 ![APPmascot](https://github.com/0ingchun/dimensionality/blob/main/sketch1633776342197.png)
 
 以上吉祥物圖標為**Multimind Technology**所有，保留所有權利。logo圖標為編輯其他畫師作品的結果，如有侵權，請聯系刪除。
-
-it is a buckup readme dimension 21.12.11
